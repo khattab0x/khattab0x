@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://khattab.org">
+  <a href="https://github.com/khattab0x">
     <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,py,swift,docker,nginx&theme=dark" alt="skills" />
   </a>
 </p>
