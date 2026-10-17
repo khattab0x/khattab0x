@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm خطاب إبراهيم</h1>
+<h1 align="center">Hey, I'm Khattab</h1>
 
 <p align="center">
   See my website - <a href="https://khattab.org">khattab.org</a>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/NotKhattab">
+  <a href="https://t.me/LuoXueModX">
     <img src="https://img.shields.io/badge/TELEGRAM-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
