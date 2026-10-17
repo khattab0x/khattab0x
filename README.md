@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm خطاب إبراهيم</h1>
 
-<!--
-**khattab0x/khattab0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  See my website - <a href="https://khattab.org">khattab.org</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://khattab.org">
+    <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,py,swift,docker,nginx&theme=dark" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khattab0x/khattab0x/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/NotKhattab">
+    <img src="https://img.shields.io/badge/TELEGRAM-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><3</p>
